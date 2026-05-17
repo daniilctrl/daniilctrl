@@ -11,13 +11,11 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
+| [Arch Constructor](https://github.com/daniilctrl/Arch-constructor) | A web app that designs web app architectures. Fill in project requirements (RPS, data shape, team, compliance) and get back a backend architecture with components, ADRs and a Mermaid diagram, powered by a pure TypeScript rule engine. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 | [RabbitMQ + Telegram Microservices](https://github.com/daniilctrl/rbt) | Microservice playground: three Nest.js services (producer / consumer / telegram-notifier) communicating via RabbitMQ with publisher confirms, Redis-based idempotency, and Telegram Bot API notifications. | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 | [SEM Image Analysis](https://github.com/daniilctrl/sem-image-analysis) | Diploma project: deep learning (SimCLR, BYOL) for inverse search and clustering of nanostructured surface textures from SEM images. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?logo=meta&logoColor=white) |
 | [NestJS Monorepo](https://github.com/daniilctrl/nest) | Monorepo with `user-service` (REST API + PostgreSQL) and `notification-service`, plus a shared library. Infrastructure on Docker Compose with PostgreSQL and MinIO. | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 
-
-
-<h1></h1>
 
 
 🌐 **Contacts:**
