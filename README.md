@@ -17,21 +17,6 @@
 
 
 
- 📊 **GitHub Stats:**
-
-
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilctrl&theme=github" width="30%"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilctrl&theme=github" width="30%"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilctrl&theme=github" width="30%"/>
-</div>
-
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilctrl&theme=github" width="60.5%"/>
-</div>
-
 <h1></h1>
 
 
